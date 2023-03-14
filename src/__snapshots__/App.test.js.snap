@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content23 should have 'Completed' message: 
+          <h1 class="content231Titles">
+            Completed
+          </h1>
+         1`] = `
+<h1
+  class="content231Titles"
+>
+  Completed
+</h1>
+`;
+
+exports[`Content23 should have 'In Progress' message: 
+          <h1 class="content231Titles">
+            In Progress
+          </h1>
+         1`] = `
+<h1
+  class="content231Titles"
+>
+  In Progress
+</h1>
+`;
+
+exports[`Content23 should have 'To Do' message: 
+          <h1 class="content231Titles">
+            To Do
+          </h1>
+         1`] = `
+<h1
+  class="content231Titles"
+>
+  To Do
+</h1>
+`;
